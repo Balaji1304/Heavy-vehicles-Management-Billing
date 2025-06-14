@@ -1,0 +1,1 @@
+edPlace your app screenshots in this folder. Example filenames: landing.png, dashboard.png, drivers.png, trucks.png, billing.png, login.png. 
