@@ -1,4 +1,4 @@
-# Heavy Vehicles Management & Billing System
+# Vehicles Management & Billing System
 
 A modern web application designed to streamline the management of heavy vehicle operations. This project enables efficient handling of drivers, trucks, billing processes, and provides a secure authentication system—all within an intuitive dashboard.
 
